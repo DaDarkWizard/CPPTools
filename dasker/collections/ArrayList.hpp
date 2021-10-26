@@ -9,7 +9,6 @@
 
 // This arraylist implementation is made by Daniel Masker
 // GitHub: DaDarkWizard
-//
 namespace dasker::collections
 {
     template<typename T>
